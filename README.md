@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<a href="#">
+<a style="text-decoration: none;">
 <img align="center" title="C#" alt="Rogério Nascimento Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" title="Angular" alt="Rogério Nascimento Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="center" title="React" alt="Rogério Nascimento React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
