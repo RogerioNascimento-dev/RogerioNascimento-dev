@@ -15,7 +15,7 @@
 <img align="center" title="Typescript" alt="Rogério Nascimento Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" title="HTML5" alt="Rogério Nascimento HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" title="CSS3" alt="Rogério Nascimento CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" title="Laravel" alt="Rogério Nascimento Laravel" height="40" width="40" src="https://github.com/user-attachments/assets/1b2e2ac3-41b7-4602-9131-e4b8d2717d04" />
+<img align="center" title="Laravel" alt="Rogério Nascimento Laravel" height="60" width="40" src="https://github.com/user-attachments/assets/1b2e2ac3-41b7-4602-9131-e4b8d2717d04" />
 <img align="center" title="PHP" alt="Rogério Nascimento PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="center" title="SQL Server" alt="Rogério Nascimento Sql Server" height="30" width="40" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" />     
 <img align="center" title="PostgreSql" alt="Rogério Nascimento postegre SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
