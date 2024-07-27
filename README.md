@@ -19,7 +19,7 @@
 <img align="center" title="PHP" alt="Rogério Nascimento PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="center" title="SQL Server" alt="Rogério Nascimento Sql Server" height="30" width="40" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" />     
 <img align="center" title="PostgreSql" alt="Rogério Nascimento postegre SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="center" title="MySql" alt="Rogério Nascimento MySql" height="30" width="40" src="https://github.com/user-attachments/assets/b03f652f-f348-4530-895c-6c0cab7e7545" />
+<img align="center" title="MySql" alt="Rogério Nascimento MySql" height="45" width="55" src="https://github.com/user-attachments/assets/b03f652f-f348-4530-895c-6c0cab7e7545" />
 </a>
 </div>
 
